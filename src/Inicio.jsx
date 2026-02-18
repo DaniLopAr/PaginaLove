@@ -1,7 +1,6 @@
 import { useState, useEffect } from "react";
 import './Inicio.css'
 import conWalle from "./assets/Conwalle.jpeg"
-import Ellayarcoiris from "./assets/ellayarcoiris.jpeg"
 import Ellalinda from "./assets/Ellalinda.jpeg"
 import { FaSpotify } from "react-icons/fa";
 
