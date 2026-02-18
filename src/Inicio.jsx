@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react";
 import './Inicio.css'
-import ConWalle from "./assets/conwalle.jpeg"
+import conWalle from "./assets/Conwalle.jpeg"
 import Ellayarcoiris from "./assets/ellayarcoiris.jpeg"
 import Ellalinda from "./assets/Ellalinda.jpeg"
 import { FaSpotify } from "react-icons/fa";
@@ -26,7 +26,7 @@ export function CuteButtons() {
     return (
         <div class="card">
             <p><span>Mujer Hermosa</span></p>
-            <p><span><img src={ConWalle} alt="Nosotros" /></span></p>
+            <p><span><img src={conWalle} alt="Nosotros" /></span></p>
             <p><span>Me encantas</span></p>
             <p><span><img src={Ellalinda} alt="Nosotros" /></span></p>
             <p><span>Tus ojitos me encantan</span></p>
