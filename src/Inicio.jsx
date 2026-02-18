@@ -284,7 +284,7 @@ export function CorazonFlotante() {
     )
 }
 
-export function CorazonesFondo({ cantidad = 5 }) {
+export function CorazonesFondo({ cantidad = 2 }) {
     const [corazones, setCorazones] = useState([]);
 
     useEffect(() => {
